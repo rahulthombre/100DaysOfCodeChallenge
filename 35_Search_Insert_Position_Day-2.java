@@ -1,3 +1,7 @@
+//Problem :- https://leetcode.com/problems/search-insert-position
+
+//Solution :-
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int start = 0;
